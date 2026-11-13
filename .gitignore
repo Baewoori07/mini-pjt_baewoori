@@ -1,0 +1,7 @@
+# .gitignore
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.db
+traces/
